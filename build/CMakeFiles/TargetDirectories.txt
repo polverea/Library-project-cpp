@@ -1,0 +1,4 @@
+/home/polverea/Linux/projects/bookshop/build/CMakeFiles/rebuild_cache.dir
+/home/polverea/Linux/projects/bookshop/build/CMakeFiles/edit_cache.dir
+/home/polverea/Linux/projects/bookshop/build/CMakeFiles/MyProjectExe.dir
+/home/polverea/Linux/projects/bookshop/build/CMakeFiles/MyProject.dir

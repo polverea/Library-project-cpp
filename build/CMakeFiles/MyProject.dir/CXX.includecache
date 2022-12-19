@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/book.h
+string
+-
+
+../include/customer.h
+string
+-
+
+../include/library.h
+string
+-
+vector
+-
+book.h
+../include/book.h
+customer.h
+../include/customer.h
+
+/home/polverea/Linux/projects/bookshop/src/library.cpp
+library.h
+/home/polverea/Linux/projects/bookshop/src/library.h
+iostream
+-
+algorithm
+-
+
